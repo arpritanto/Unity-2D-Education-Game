@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/mainMenu.unity
+    guid: 186aef7648bc86d4b8b050a0559d813e
+  - enabled: 1
+    path: Assets/Scenes/mainMisi.unity
+    guid: 27a55b26703dc6549878a5d6903bf556
+  - enabled: 1
+    path: Assets/Scenes/misi 1/2DProject.unity
+    guid: 1e4f246c25aa60f45890254667d461fe
+  - enabled: 1
+    path: Assets/Scenes/misi 1/BonusGame.unity
+    guid: 93b30540f9df2eb45abc5ada7092ae5a
+  - enabled: 1
+    path: Assets/Scenes/misi 1/Motivasi1.unity
+    guid: c2fc3d71aa4097e47a0b71388bfbfa70
+  - enabled: 1
+    path: Assets/Scenes/misi 1/Pertanyaan1.unity
+    guid: d9d804be206ea0246bbcaba058e9e17e
+  - enabled: 1
+    path: Assets/Scenes/misi 1/story1.unity
+    guid: bc27490dd051b924dbc458fa328739c3
+  - enabled: 1
+    path: Assets/Scenes/misi 1/videoPembelajaran.unity
+    guid: 83d84877ab7d94649ba7b24bab1ad049
+  - enabled: 1
+    path: Assets/Scenes/misi 1/videoPembelajaran1.unity
+    guid: b9fe66e99d65cbc459512b428d0959c1
+  - enabled: 1
+    path: Assets/Scenes/submisi1.1/2DProjectSub1.unity
+    guid: efcbbb5b57b32a9488d7ec71c3fbc532
+  - enabled: 1
+    path: Assets/Scenes/submisi1.1/Motivasi2.unity
+    guid: 39e824d6a4c3c82439a3c2785cc4ff85
+  - enabled: 1
+    path: Assets/Scenes/submisi1.1/Pertanyaan2.unity
+    guid: 204e24e394bc222489a922e005753086
+  - enabled: 1
+    path: Assets/Scenes/submisi1.1/videoPembelajaran2.1.unity
+    guid: 66e4a956e3d6c1c4bb41c248a905d11f
+  - enabled: 1
+    path: Assets/Scenes/submisi1.1/videoPembelajaran2.unity
+    guid: e41539eb9e75ffa4ab39c9280a5f0332
+  - enabled: 1
+    path: Assets/Scenes/submisi1.2/2DProjectSub12.unity
+    guid: 8501525387f5ca849ba3dfcedc3a9230
+  - enabled: 1
+    path: Assets/Scenes/submisi1.2/Motivasi3.unity
+    guid: 4b854ceba92a62a4dac3728fcff6bca0
+  - enabled: 1
+    path: Assets/Scenes/submisi1.2/Pertanyaan3.unity
+    guid: 63099cc2ffeb0a64d95fa0e5ffd055d8
+  - enabled: 1
+    path: Assets/Scenes/misi 2/2DProject2.unity
+    guid: da5f42f5e7d1c4e4c84ec4a636a8c2f9
+  - enabled: 1
+    path: Assets/Scenes/misi 2/Motivasi4.unity
+    guid: 5d1edb61a6a0f654caa38c7e276fd965
+  - enabled: 1
+    path: Assets/Scenes/misi 2/Pertanyaan4.unity
+    guid: 067ab4a515f347741b00e8091a173baa
+  - enabled: 1
+    path: Assets/Scenes/misi 2/story2.unity
+    guid: 05603c58e6b2c8243913db52720c8830
+  - enabled: 1
+    path: Assets/Scenes/misi 2/videoPembelajaran4.unity
+    guid: fe180683a9abf76458b3bb549d634757
+  - enabled: 1
+    path: Assets/Scenes/misi 2/videoPembelajaran41.unity
+    guid: 7ac950fde6f1eaf4e98e2e4a80e9767f
+  - enabled: 1
+    path: Assets/Scenes/submisi2.1/2DProjectSub2.1.unity
+    guid: 200227fad14c9d94ea5089ca58a21da3
+  - enabled: 1
+    path: Assets/Scenes/submisi2.1/Motivasi2.1.unity
+    guid: ddab8ac97d7a9434a97be200b35ad4b8
+  - enabled: 1
+    path: Assets/Scenes/submisi2.1/Pertanyaan5.unity
+    guid: f87ca38fc9034794ea504c22fc7699ab
+  - enabled: 1
+    path: Assets/Scenes/submisi2.1/videoPembelajaran5.1.unity
+    guid: 681f5220b68feb7429ad1739f9a0a066
+  - enabled: 1
+    path: Assets/Scenes/submisi2.1/videoPembelajaran5.unity
+    guid: aece20e2d31d00d48ab741339d6f96bb
+  - enabled: 1
+    path: Assets/Scenes/submisi2.2/2DProjectSub22.unity
+    guid: c4d88f6aca0f6564ab227b883998765f
+  - enabled: 1
+    path: Assets/Scenes/submisi2.2/Motivasi6.unity
+    guid: e8f11c62505b58b4d91678fc32b1bdad
+  - enabled: 1
+    path: Assets/Scenes/submisi2.2/Pertanyaan6.unity
+    guid: 0e5cd7d1416d96842a04503c40f316c4
+  - enabled: 1
+    path: Assets/Scenes/misi 3/2DProject3.unity
+    guid: 412339e80023aff47b0e62ce0b5174d0
+  - enabled: 1
+    path: Assets/Scenes/misi 3/Motivasi7.unity
+    guid: 91c7b008a17b36447a8191bdd665ebc1
+  - enabled: 1
+    path: Assets/Scenes/misi 3/Pertanyaan7.unity
+    guid: fccef0b5227c314439f68dfce6f68e3e
+  - enabled: 1
+    path: Assets/Scenes/misi 3/story3.unity
+    guid: 220b9b17865657c42bf8b2614edbd7c2
+  - enabled: 1
+    path: Assets/Scenes/misi 3/videoPembelajaran7.unity
+    guid: 12fd59e1cd3cee04b83fa69e56cc215d
+  - enabled: 1
+    path: Assets/Scenes/misi 3/videoPembelajaran71.unity
+    guid: ebf0654b06b9cc04195ec7e55e640c25
+  - enabled: 1
+    path: Assets/Scenes/submisi3.1/2DProjectSub3.1.unity
+    guid: 209afee4e4b41834ba6dd6bf1ca837a1
+  - enabled: 1
+    path: Assets/Scenes/submisi3.1/Motivasi3.1.unity
+    guid: 059a98039be3e0c479f07be7ab4812b0
+  - enabled: 1
+    path: Assets/Scenes/submisi3.1/Pertanyaan8.unity
+    guid: 6eab23fbf4a9d594aab3a53c43070865
+  - enabled: 1
+    path: Assets/Scenes/submisi3.1/videoPembelajaran8.1.unity
+    guid: 2599739e0a3b442469f3ed07a34be25e
+  - enabled: 1
+    path: Assets/Scenes/submisi3.1/videoPembelajaran8.unity
+    guid: 71f7b3de922c2df47a38a0bc179cca8b
+  - enabled: 1
+    path: Assets/Scenes/submisi3.2/2DProjectSub32.unity
+    guid: 613ae6eee076867419abe4bfe7e90bc2
+  - enabled: 1
+    path: Assets/Scenes/submisi3.2/Ending.unity
+    guid: ad28c173cb0c23643be7248ef7006667
+  - enabled: 1
+    path: Assets/Scenes/submisi3.2/Motivasi9.unity
+    guid: b4acbbea3e5e7d749baa281bec0d23e8
+  - enabled: 1
+    path: Assets/Scenes/submisi3.2/Pertanyaan9.unity
+    guid: 2e1cbffade4241f4fb442b8227d0da74
+  - enabled: 1
+    path: Assets/Scenes/submisi3.2/storyEnding.unity
+    guid: 332df435e0f2a814f95c32c49e49d3c8
+  - enabled: 1
+    path: Assets/Scenes/submisi3.2/storySip.unity
+    guid: d09544bf12e4af74fb9d01b6cf7c1e90
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 719347b696861ef47b69d23fe55f22e8, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 4255685da27bc5044bfae1c3cdaf21b4, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 905e2bed603ea554db0a1071ebd2e97d, type: 2}
